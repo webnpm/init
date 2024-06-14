@@ -18,4 +18,8 @@ box-sizing:
 
 可以写颜色的位置
 rgba(0,0,0,0.5) => rgb(0 0 0 / 50% ) => #00000080
+
+
+
+padding,margin,border 的百分比相对于宽度来的
 ```
