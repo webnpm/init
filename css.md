@@ -14,4 +14,8 @@
 box-sizing:
     border-box(实际宽度 + padding + border)
     content-box(实际宽度)
+
+
+可以写颜色的位置
+rgba(0,0,0,0.5) => rgb(0 0 0 / 50% ) => #00000050
 ```
