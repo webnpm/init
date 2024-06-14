@@ -9,4 +9,9 @@
 3.使用继承 -> 目前字体相关的 （颜色，字体大小等）
 4.使用默认值
 
+
+
+box-sizing:
+    border-box(实际宽度 + padding + border)
+    content-box(实际宽度)
 ```
